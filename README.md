@@ -1,2 +1,9 @@
-# Education-Levels-Lebanon-2023
-Interactive Streamlit dashboard exploring education levels and school dropout patterns across Lebanon
+# Education Levels in Lebanon – 2023
+
+This Streamlit application explores educational attainment and school dropout patterns across Lebanese governorates and towns using 2023 data from the LinkedAUB PKGCube Explorer.
+
+The application includes interactive governorate and town filters, an education-level distribution chart, and a scatter plot exploring the relationship between higher education attainment and school dropout.
+
+## Live App
+
+The public Streamlit app link will be added after deployment.
