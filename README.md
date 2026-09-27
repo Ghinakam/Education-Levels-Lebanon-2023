@@ -6,4 +6,4 @@ The application includes interactive governorate and town filters, an education-
 
 ## Live App
 
-The public Streamlit app link will be added after deployment.
+https://education-levels-lebanon-2023-gkpc9upnufmdenz9oxsmnw.streamlit.app/
